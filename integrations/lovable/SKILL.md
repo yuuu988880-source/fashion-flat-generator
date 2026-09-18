@@ -46,7 +46,7 @@ Keep the original neckline, sleeve shape, length, volume, asymmetry, closure pos
 pockets, ruffle layers, bow shape and hem. Neutralize camera pose only as needed for a
 readable flat; do not redesign fit or mechanically mirror real design asymmetry.
 No human, mannequin, hanger, caption, logo, watermark, invented seams, decorative hatching,
-grey body shading or photographic background. White garment interiors; keep confirmed
+grey body shading or photographic background. Fully opaque white paper and white garment interiors; keep confirmed
 solid black trim only if essential for legibility. Show the complete garment with margins.
 This is a visual garment drawing, not a measured sewing pattern or certified CAD file.
 ```
@@ -83,9 +83,11 @@ Keep texture understated so construction lines remain legible.
 | 版型 | 领肩袖、腰线、下摆及相对长宽与可见原款相符 |
 | 细节 | 已确认装饰数量、位置、开口没有新增或遗漏 |
 | 证据 | 不把折痕当缝线、未知背面当确认设计 |
-| 绘画 | 白底、清晰黑线、必要褶线、完整轮廓无裁切 |
+| 绘画 | 不透明白底与白色衣身、清晰黑线、必要褶线、完整轮廓无裁切 |
 | 配对 | 上色来自母版，构图和结构逐项相符 |
 | 色彩 | 符合照片观感，不声称等于实物色卡 |
+
+检查导出文件的透明度；默认白底不可导出成透明黑底预览。出现这种问题时，保留已有结构，仅修复为不透明白底再交付。
 
 说明区分“已核对”“不确定”“已修复”。只报告真正查看过的结果；仍有偏差则标注草稿，不无限循环或虚报通过。
 

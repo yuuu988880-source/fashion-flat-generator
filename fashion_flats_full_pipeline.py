@@ -80,7 +80,7 @@ Remove body, underlayers, accessories and background. Do not invent hidden struc
 STYLE references control drawing treatment only, never garment design or lettering.
 Center the complete garment with margins on pure white; crisp fine black hand-drawn ink,
 slightly stronger contour, thinner confirmed construction and restrained fold lines.
-White interior, no grey body shading, no hatching, no text, no watermark or mannequin.
+Fully opaque white background and garment interior; no transparency, grey shading, hatching, text or mannequin.
 Do not force symmetry onto genuine design asymmetry. Do not confuse folds with seams.
 This is a visual flat, not a measured pattern or certified CAD file.
 Inspect and correct against SOURCE before using as LINE MASTER.
