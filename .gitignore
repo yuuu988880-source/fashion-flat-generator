@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+input/
+inputs/
+output/
+outputs/
+jobs/
+private/
+*.log
+*.rtf

@@ -1,0 +1,11 @@
+{
+  "target": "FICTIONAL EXAMPLE ONLY: a front-view short-sleeved jacket; replace after viewing photos",
+  "view": "front",
+  "observed_features": ["Example: rounded neckline", "Example: three visible front buttons"],
+  "invariants": ["Example: observed boxy width-to-length ratio", "Example: three buttons at observed positions"],
+  "observed_colors": ["Example: muted blue body"],
+  "surface_appearance": "Example: visually matte; fiber composition unknown",
+  "unknowns": ["Back construction is not visible"],
+  "evidence": ["Replace with photo 1 observations and any occlusion notes"],
+  "example_only": true
+}

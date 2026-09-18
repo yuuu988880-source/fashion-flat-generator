@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fashion Flat Generator"
+  short_description: "把模特实拍转为保留原款结构的手绘线稿，并基于同一母版同步上色"
+  default_prompt: "使用 $fashion-flat-generator，将我上传的模特上身图转成服装单体手绘线稿，再基于同一线稿同步上色；保留可见版型、比例和细节，标注遮挡或未知结构，不新增设计。"
+policy:
+  allow_implicit_invocation: true

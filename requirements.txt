@@ -1,0 +1,2 @@
+# No third-party Python packages required by the job preparation tool.
+# Actual image generation requires an image-editing host; see SKILL.md.
