@@ -27,7 +27,7 @@ git clone https://github.com/yuuu988880-source/fashion-flat-generator.git ~/.cod
 
 已有该技能时先保留本地改动，再更新仓库。`SKILL.md` 也可供其他支持技能指令及图像编辑的宿主读取。需要生成时，宿主必须具备真正的参考图编辑能力；文本模型单独运行只会得到任务与提示词。
 
-Lovable 工作区可使用 `integrations/lovable/SKILL.md`，这是自包含指令，无本地相对文件依赖。工作区技能不会自动创建应用、安装图像 API 或读取你的电脑文件。若要求生成应用，按技能中上传→结构观察→线稿→上色→对照的流程实现真实服务连接。
+Lovable 工作区可使用 `integrations/lovable/skill-template.md`，这是自包含指令，无本地相对文件依赖；创建 Lovable 工作区技能时，将其全文作为 SKILL.md 内容提交。仓库中使用模板文件名，避免 Codex 把它重复识别为同名技能。工作区技能不会自动创建应用、安装图像 API 或读取你的电脑文件。若要求生成应用，按技能中上传→结构观察→线稿→上色→对照的流程实现真实服务连接。
 
 ## 工作流
 
